@@ -1,6 +1,5 @@
 # MondrianProject
 
-# Mondrian Project
 
 This project is a visual representation inspired by Piet Mondrian's abstract art using HTML and CSS. The design features a grid layout with primary colors and strong lines, mimicking Mondrian's style.
 
